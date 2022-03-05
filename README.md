@@ -3,18 +3,19 @@
 👨🏻‍💻 An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
 
 ## My Reseach Interest:
-- Outlying Aspect Mining
-- Classification
-- Clustering
 - Anomaly Detection
 - Similarity Measure
+- Support Vector Machines
+- Naïve Bayes Classification
+- Logistic Regression
+- Financial Modeling/Time Series
+- Quantitative Research
 
 ## I am open to:
 
-- any collobration work,
-- machine learning projects(development or research)
-- research internships 
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Any Collobration Work
+- Data Scientist Projects(Development or Research)
+- Internships 
 
 ## Connect with me:
 
