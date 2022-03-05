@@ -2,14 +2,14 @@
 
 An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
 
-**My Reseach Interest**:
+## My Reseach Interest:
 - Outlying Aspect Mining
 - Classification
 - Clustering
 - Anomaly Detection
 - Similarity Measure
 
- **I am open to**:
+## I am open to:
 
 - any collobration work,
 - machine learning projects(development or research)
