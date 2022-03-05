@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aslan][website]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aslan
 
 <!--
 **Asikpalysik/Asikpalysik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
