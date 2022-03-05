@@ -11,13 +11,13 @@
 - Financial Modeling/Time Series
 - Quantitative Research
 
-## I am open to:
+## I'm Open To:
 
 - Any Collobration Work
 - Data Scientist Projects(Development or Research)
 - Internships 
 
-## Connect with me:
+## Connect With Me:
 
 <p align = "center">
 
