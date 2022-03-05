@@ -1,5 +1,20 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aslan
 
+An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
+
+**My Reseach Interest**:
+- Outlying Aspect Mining
+- Classification
+- Clustering
+- Anomaly Detection
+- Similarity Measure
+
+ **I am open to**:
+
+- any collobration work,
+- machine learning projects(development or research)
+- research internships 
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Connect with me:
 
