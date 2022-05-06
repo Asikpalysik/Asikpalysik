@@ -41,6 +41,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
