@@ -15,7 +15,7 @@
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, i am happy to help. <h4> 
   
 ## My Reseach Interest:
-<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="200" width="200"> </center>
+<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/coderman.gif" align="right" height="200" width="400"> </center>
 - Anomaly Detection
 - Similarity Measure
 - Support Vector Machines
@@ -25,7 +25,7 @@
 - Quantitative Research
 
 ## I'm Open To:
-
+<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="200" width="200"> </center>
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;Any Collobration Work <h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" /> &nbsp;&nbsp;&nbsp;Data Scientist Projects(Development or Research) <h4>
 
