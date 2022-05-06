@@ -20,7 +20,7 @@
 - 💬 Ask me about anything, i am happy to help
 
 ## My Reseach Interest:
-<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="240" width="240"> </center>
+<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="200" width="200"> </center>
 - Anomaly Detection
 - Similarity Measure
 - Support Vector Machines
