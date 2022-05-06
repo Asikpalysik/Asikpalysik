@@ -1,23 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aslan
-
-👨🏻‍💻 An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
-
-## My Reseach Interest:
-- Anomaly Detection
-- Similarity Measure
-- Support Vector Machines
-- Naïve Bayes Classification
-- Logistic Regression
-- Financial Modeling/Time Series
-- Quantitative Research
-
-## I'm Open To:
-
-- Any Collobration Work
-- Data Scientist Projects(Development or Research)
-- Internships 
-
-## Connect With Me:
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Aslan Ahmedov](https://aslanahmedov.com)
 
 <p align = "center">
 
@@ -38,3 +19,35 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
+👨🏻‍💻 An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
+
+- 💼 Any freelance work? do reach, [email](aslanahmedov@yahoo.com)
+- 💬 Ask me about anything, i am happy to help
+
+## My Reseach Interest:
+- Anomaly Detection
+- Similarity Measure
+- Support Vector Machines
+- Naïve Bayes Classification
+- Logistic Regression
+- Financial Modeling/Time Series
+- Quantitative Research
+
+## I'm Open To:
+
+- Any Collobration Work
+- Data Scientist Projects(Development or Research)
+- Internships 
+
+**languages and tools:**
+
+<code><img height="20" src="./icons/python.png"></code>
+<code><img height="20" src="./icons/tensorflow.png"></code>
+<code><img height="20" src="./icons/aws.png"></code>
+<code><img height="20" src="./icons/google.png"></code>
+<code><img height="20" src="./icons/docker.png"></code>
+<code><img height="20" src="./icons/azure.png"></code>
+<code><img height="20" src="./icons/bash.png"></code>
+<code><img height="20" src="./icons/github.png"></code>
+<code><img height="20" src="./icons/pytorch.png"></code>
+<code><img height="20" src="./icons/sql.png"></code>
