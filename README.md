@@ -15,7 +15,7 @@
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />Ask me about anything, I'am happy to help<h4> 
 
 ## My Reseach Interest:
-<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/coderman.gif" align="right" height="240" width="400"> </center>
+<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/coderman.gif" align="right" height="220" width="400"> </center>
 - Anomaly Detection
 - Similarity Measure
 - Support Vector Machines
