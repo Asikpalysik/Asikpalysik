@@ -1,3 +1,8 @@
+<center><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/gif.gif" alt="centered image" height="200" width="1200"> </center>
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
+
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Aslan Ahmedov](https://aslanahmedov.com)
 
 <p align = "center">
