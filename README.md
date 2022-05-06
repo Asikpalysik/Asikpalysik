@@ -1,6 +1,6 @@
 <center><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/1.gif" alt="centered image" height="240" width="900"> </center>
 
-<h4> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> &nbsp;An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems. <h4>
+<h4> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" />An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems. <h4>
 
 <p align = "center">
 
@@ -12,7 +12,7 @@
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/Asikpalysik/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/asikpalysik/)
 
-<h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, i am happy to help. <h4> 
+<h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />Ask me about anything, i am happy to help. <h4> 
   
 ## My Reseach Interest:
 <left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/coderman.gif" align="right" height="200" width="400"> </center>
@@ -26,10 +26,9 @@
 
 ## I'm Open To:
 <left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="200" width="200"> </center>
-<h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;Any Collobration Work <h4>
-<h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" /> &nbsp;&nbsp;&nbsp;Data Scientist Projects(Development or Research) <h4>
-
-- Internships 
+<h4> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="30" width="20" /> Internships <h4> 
+<h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="18" /> Any Collobration Work <h4>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="18" /> Data Scientist Projects(Development or Research) <h4>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=007396)
