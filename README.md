@@ -1,7 +1,6 @@
 <center><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/1.gif" alt="centered image" height="240" width="900"> </center>
 
-### 👨🏻‍💻  An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems.
-
+### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems. 
 
 <p align = "center">
 
@@ -16,8 +15,8 @@
 </p>
 
 
-- 💼 Any freelance work? do reach, [email](aslanahmedov@yahoo.com)
-- 💬 Ask me about anything, i am happy to help
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Any freelance work? do reach, [email](aslanahmedov@yahoo.com)<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, i am happy to help. <br>
 
 ## My Reseach Interest:
 <left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="200" width="200"> </center>
@@ -30,6 +29,11 @@
 - Quantitative Research
 
 ## I'm Open To:
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+
+
+
 
 - Any Collobration Work
 - Data Scientist Projects(Development or Research)
