@@ -37,6 +37,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=007396)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -50,4 +52,5 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+
 
