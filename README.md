@@ -12,6 +12,22 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/asikpalysik/)
 
 </p>
+ 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Udacity](https://img.shields.io/badge/-Udacity-000?&logo=Udacity)
+![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=Kaggle)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 
 <!-- 
 ----
@@ -39,3 +55,4 @@
 - Any Collobration Work
 - Data Scientist Projects(Development or Research)
 - Internships 
+
