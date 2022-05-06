@@ -53,5 +53,5 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
-
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual%20studio%20code&logoColor=0078D4)
 
