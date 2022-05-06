@@ -25,7 +25,7 @@
 - Quantitative Research
 
 ## I'm Open To:
-<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="190" width="190"> </center>
+<left><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/octo.gif" align="right" height="170" width="170"> </center>
 <h4> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="30" width="20" /> Internships <h4> 
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="18" /> Any Collobration Work <h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="18" /> Data Scientist Projects(Development or Research) <h4>
