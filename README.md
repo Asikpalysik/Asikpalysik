@@ -1,4 +1,4 @@
-<center><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/gif.gif" alt="centered image" height="200" width="1200"> </center>
+<center><img src="https://github.com/Asikpalysik/Asikpalysik/blob/main/Gif/1.gif" alt="centered image" height="320" width="1100"> </center>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
