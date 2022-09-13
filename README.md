@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/Asikpalysik/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/asikpalysik/)
 
-<h4> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" />An entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects challenge, now eager to apply the same knowledge to real-world business problems. <h4>
+<h4> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" />Versatile an entry-level data scientist who takes pride in building models that translate data points into business insights. Used my skills in student projects, with entry-level expertise in the IoT, AI, and Cloud Computing. Hands-on understanding of IoT technologies coupled with the knowledge of ML to deliver state-of-the-art products. Experienced in developing products across domains of IoT, Video Surveillance as a Service, and Analytics. <h4>
 
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />Ask me about anything, I'am happy to help <h4>
 
