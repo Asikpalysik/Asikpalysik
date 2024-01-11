@@ -27,7 +27,9 @@
 <h4> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="18" /> Open-Source GIS Projects <h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="18" /> Sustainable Urban Planning Through GIS <h4>
 
-## I'm Open To:
+## My Goals:
+<left><img src="Gif/OeOmMRwEFYBjSDmHXZ.webp" align="right" height="200" width="250"> </center>
+
 🌐 **Contribute to open-source GIS projects:**  
  Enhancing tools for a positive impact on the geospatial community.
 
